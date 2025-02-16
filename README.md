@@ -2,11 +2,10 @@
 - 🔭 I’m currently working administrative assistant. 
 - 🌱 I’m currently learning C# , HTML , MySQL , JavaScript and new tools, to become the best programmer👨‍💻 
 - 😄 Pronouns: he/him
-- 🤓I am the Supreme Nerd🤓
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaciel&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaciel&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormaciel&show_icons=true&theme=dark"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaciel&show_icons=true&theme=dark"/>
+
 
 </div>
 <div style="display: inline_block"><br>
