@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 
 
-<img height="42em" src="https://github-readme-stats.vercel.app/api?username=victormaciel&show_icons=true&theme=dark"/> <img height="52em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaciel&show_icons=true&theme=dark"/>
+<img height="70em" src="https://github-readme-stats.vercel.app/api?username=victormaciel&show_icons=true&theme=dark"/> <img height="75em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaciel&show_icons=true&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
