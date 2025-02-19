@@ -1,7 +1,6 @@
 # 👨‍💻Hi, I'm Victor Maciel 👋👨‍💻
 - 🔭 I’m currently working administrative assistant. 
 - 🌱 I’m currently learning C# , HTML , MySQL , JavaScript and new tools, to become the best programmer👨‍💻 
-- 😄 Pronouns: he/him
 
 ---
 
