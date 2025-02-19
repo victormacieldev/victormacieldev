@@ -49,5 +49,9 @@
       height="90" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
-
 </p>
+<div align="center">
+  
+![Snake animation](https://github.com/andreampinheiro/andreampinheiro/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
