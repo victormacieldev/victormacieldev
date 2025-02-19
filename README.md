@@ -4,7 +4,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 <img 
     align="left" 
     alt="HTML"
@@ -33,21 +33,21 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victormacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victormacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="90" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
 </p>
