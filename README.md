@@ -35,23 +35,25 @@
 
 ### 📊 Statistics
 
-<p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img 
     alt="GitHub Stats" 
     height="175" 
-    style="padding-right: 10px; display:block; margin-bottom: 10px;" 
+    style="flex: 1 1 48%; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=victormacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
   <img 
     alt="GitHub Stats" 
     height="90" 
-    style="display:block; margin-bottom: 10px;" 
+    style="flex: 1 1 48%; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
-</p>
+</div>
 
 ### 📱 Social Links
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-soares-maciel-4aa02111a/)
-   <!-- Adicione mais links sociais aqui -->
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-soares-maciel-4aa02111a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormaciel007/)
+
+<!-- Adicione mais links sociais aqui -->
