@@ -34,19 +34,24 @@
 <br/>
 
 ### 📊 Statistics
+
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="175" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; display:block; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=victormacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="90" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="90" 
+    style="display:block; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
+</p>
+
+### 📱 Social Links
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-soares-maciel-4aa02111a/)
+   <!-- Adicione mais links sociais aqui -->
 </p>
