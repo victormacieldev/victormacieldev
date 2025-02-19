@@ -48,7 +48,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="90" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 
 </p>
